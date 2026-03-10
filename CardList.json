@@ -1,0 +1,82 @@
+{
+  "sofia": {
+    "id": "sofia",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sofia l'Avisée",
+        "type": "Dieu",
+        "cost": 0,
+        "image": "https://github.com/MistMagic/Deorum-Reforged/blob/Cards/Sofia%20l’Avisée%20(v1_test).jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sofia l'Avisée",
+    "type": "Dieu",
+    "cost": "0"
+  },
+  "conseil-sofia": {
+    "id": "conseil-sofia",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conseil de Sofia",
+        "type": "Rite",
+        "cost": "0",
+        "image": "https://github.com/MistMagic/Deorum-Reforged/blob/main/Conseil%20de%20Sofia.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conseil de Sofia",
+    "type": "Rite",
+    "cost": 0
+  },
+  "Conteur": {
+    "id": "Conteur",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conteur Itinérant",
+        "type": "Croyant",
+        "cost": "1",
+        "image": "https://github.com/MistMagic/Deorum-Reforged/blob/main/Conteur%20Itinérant.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conteur Itinérant",
+    "type": "Croyant",
+    "cost": "1"
+  },
+  "jeune-professeur": {
+    "id": "jeune-professeur",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jeune Professeur",
+        "type": "Adepte",
+        "cost": "1",
+        "image": "https://github.com/MistMagic/Deorum-Reforged/blob/main/Jeune%20Professeur.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jeune Professeur",
+    "type": "Adepte",
+    "cost": "1"
+  },
+  "repos-sage": {
+    "id": "repos-sage",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Repos du sage",
+        "type": "Présage",
+        "cost": "0",
+        "image": "https://github.com/MistMagic/Deorum-Reforged/blob/main/Repos%20du%20sage.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Repos du sage",
+    "type": "Présage",
+    "cost": "1"
+  }
+}
